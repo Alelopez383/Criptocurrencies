@@ -30,4 +30,12 @@ The data provided to perform the analysis is not ideal, so it will need to be pr
 ![image](https://user-images.githubusercontent.com/43974872/206108696-f0f10413-eccf-4cc3-b09d-ba3f28aa560d.png)
 
 ## 3. Clustering Cryptocurrencies using k-means
+- Elbow curve, with this graph we can tell that the best k is 4.
+
+![bokeh_plot](https://user-images.githubusercontent.com/43974872/206112132-958b8556-a8d4-4d76-98f1-232e83a79b66.png)
+
+- We created a new DataFrame including predicted clusters and cryptocurrencies features.
+
+![image](https://user-images.githubusercontent.com/43974872/206111978-4ee61a93-27ff-43bf-a49d-9711909bc5a7.png)
+
 ## 4. Visualizing Cryptocurrencies Results
