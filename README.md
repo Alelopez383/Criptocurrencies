@@ -27,7 +27,7 @@ The data provided to perform the analysis is not ideal, so it will need to be pr
 ## 2. Reducing Data Dimensions using PCA
 - We reduced the dimension up to three principal components.
 
-![image](https://user-images.githubusercontent.com/43974872/206107788-fe4dcbbc-49e7-4727-9bee-f0dee9cd7caf.png)
+![image](https://user-images.githubusercontent.com/43974872/206108696-f0f10413-eccf-4cc3-b09d-ba3f28aa560d.png)
 
 ## 3. Clustering Cryptocurrencies using k-means
 ## 4. Visualizing Cryptocurrencies Results
