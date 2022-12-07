@@ -39,3 +39,6 @@ The data provided to perform the analysis is not ideal, so it will need to be pr
 ![image](https://user-images.githubusercontent.com/43974872/206111978-4ee61a93-27ff-43bf-a49d-9711909bc5a7.png)
 
 ## 4. Visualizing Cryptocurrencies Results
+- 3D Scatterplot
+
+![newplot_3D](https://user-images.githubusercontent.com/43974872/206114769-5bd73726-6608-47dd-b84e-aa5ff5cc99fd.png)
