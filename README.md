@@ -34,11 +34,24 @@ The data provided to perform the analysis is not ideal, so it will need to be pr
 
 ![bokeh_plot](https://user-images.githubusercontent.com/43974872/206112132-958b8556-a8d4-4d76-98f1-232e83a79b66.png)
 
-- We created a new DataFrame including predicted clusters and cryptocurrencies features.
+- We created a new DataFrame including predicted clusters and cryptocurrencies features, so there are 532 tradable cryptocurrencies.
 
 ![image](https://user-images.githubusercontent.com/43974872/206111978-4ee61a93-27ff-43bf-a49d-9711909bc5a7.png)
 
 ## 4. Visualizing Cryptocurrencies Results
 - 3D Scatterplot
 
-![newplot_3D](https://user-images.githubusercontent.com/43974872/206114769-5bd73726-6608-47dd-b84e-aa5ff5cc99fd.png)
+![image](https://user-images.githubusercontent.com/43974872/206115409-f92d6125-583f-4a5a-b633-862e0f802adf.png)
+
+- Table with tradable cryptocurrencies
+
+![image](https://user-images.githubusercontent.com/43974872/206115906-556c5092-0811-44d6-9660-656c0ebf8feb.png)
+
+- New Dataframe with scaled data
+
+![image](https://user-images.githubusercontent.com/43974872/206120578-1b153ced-1adc-48f0-9006-2ced8a224577.png)
+
+
+- Scatter plot with TotalCoinMined vs TotalCoinSupply
+
+![image](https://user-images.githubusercontent.com/43974872/206120902-e4c9bc92-db70-488f-8860-c6a5f8ead85f.png)
