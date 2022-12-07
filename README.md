@@ -21,6 +21,9 @@ The data provided to perform the analysis is not ideal, so it will need to be pr
 
 - Finally, we standarize the data with StandardScaler() method.
 
+![image](https://user-images.githubusercontent.com/43974872/206103969-a8a96c11-ca0b-46d3-b68b-e69ce62c3968.png)
+
+
 ## 2. Reducing Data Dimensions using PCA
 
 ## 3. Clustering Cryptocurrencies using k-means
